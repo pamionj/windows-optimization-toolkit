@@ -360,6 +360,7 @@ Recomendar si corresponde:
 
 🧠 Flujo resumido profesional
 
+````text
 Diagnóstico hardware
 ↓
 Malware cleanup
@@ -371,6 +372,6 @@ Optimización (script)
 Prueba rendimiento
 ↓
 Recomendaciones
-
+````
 ---
 Fin del workflow.

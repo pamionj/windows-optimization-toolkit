@@ -1,8 +1,8 @@
 # 🧰 Windows Optimization Toolkit (Win10 / Win11)
 
-Toolkit personal de diagnóstico inicial, limpieza básica y optimización segura para equipos con Windows 10 y Windows 11.
+Toolkit personal de diagnóstico inicial, limpieza y optimización segura para equipos con Windows 10 y 11.
 
-Este proyecto está orientado como laboratorio práctico de soporte técnico y automatización, enfocado en perfiles QA / IT Support / Junior SysAdmin.
+Este proyecto está orientado como laboratorio práctico de soporte técnico y automatización IT Support / Junior SysAdmin.
 
 Incluye un script PowerShell profesional más documentación de workflow, checklist y troubleshooting.
 
@@ -107,12 +107,14 @@ Uso típico:
 msert.exe → Full Scan
 Ideal cuando el sistema podría estar comprometido. Se puede correr desde USB y entorno de recuperación
 
-🔹 AdwCleaner
+### 🔹 AdwCleaner
+
 Elimina adware, PUPs y spyware.
 
 Uso:
 
 Scan → Clean → Reboot
+
 Muy efectivo contra publicidad y navegadores infectados.
 
 ### 🔹 HitmanPro
@@ -145,7 +147,7 @@ TDSSKiller / GMER: detección de rootkits (casos avanzados)
 ---
 ## 🧹 Limpieza del sistema
 
-Se utiliza **BleachBit portable**.
+### Se utiliza BleachBit portable.
 
 Opciones seguras:
 
@@ -252,7 +254,7 @@ Incluye:
 
 Escenarios técnicos documentados en:
 
-docs/troubleshooting.md
+[troubleshooting](docs/troubleshooting.md)
 
 Incluye:
 
